@@ -9,9 +9,9 @@ This program uses RGB tuples to create PNG images, using (0,0,0) for black and (
 ## Examples
 
 <div style="display: flex; gap: 10px;">
-  <img src="docs/examples/ex1.png" alt="Layer 3" width="235">
-  <img src="docs/examples/ex2.png" alt="Layer 4" width="235">
-  <img src="docs/examples/ex3.png" alt="Layer 5" width="235">
+  <img src="docs/examples/ex1.png" alt="Layer 3" width="250">
+  <img src="docs/examples/ex2.png" alt="Layer 4" width="250">
+  <img src="docs/examples/ex3.png" alt="Layer 5" width="250">
 </div>
 
 ## Requirements
